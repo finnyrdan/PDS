@@ -14,7 +14,8 @@ To check the details of angular project
             Angular CLI: 12.2.18
             Node: 14.17.1
             Package Manager: npm 6.14.13
-
+-To run the package
+        -npm run ci
 To run the project locally
         ng serve --open
         type ng serve then open your browser on http://localhost:4200/
